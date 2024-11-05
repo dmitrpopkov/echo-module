@@ -1,6 +1,6 @@
-name: echoserver
-stage: Sandbox
+name: echo-module
+stage: Test
 weight: 960
 description: |
   A simple echoserver for demo purposes.
-tags: ["demo"]
+tags: ["stage"]
